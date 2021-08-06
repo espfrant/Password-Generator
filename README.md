@@ -5,15 +5,11 @@ Generate secure password using JavaScript.
 
 ## Installation
 
-```bash
-
-```
+- Import "Password Generator" project in your local machine.
 
 ## Usage
 
-```javascript
-
-```
+- With Visual Studio Code, launch the project using "live-server" plugin. Finally choose the options in order to generate your new password.
 
 ## Contributing
 
