@@ -5,7 +5,7 @@ Generate secure password using JavaScript.
 
 ## Installation
 
-- Import "Password Generator" project in your local machine
+- Import "Password Generator" project in your local machine.
 
 ## Usage
 
